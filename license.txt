@@ -1,0 +1,2 @@
+ip=103.127.207.212
+url=https://raw.githubusercontent.com/mrnghia992993/Directadmin-1.60.4-Nulled/main/license.key
